@@ -1,0 +1,77 @@
+{
+  "Data": {
+    "PreviousAddress": [
+      {
+        "AddressType": "MAILING",
+        "FirstLine": "4",
+        "SecondLine": "Ravenings Parade",
+        "ThirdLine": "Goodmayes Road",
+        "FourthLine": "Near Fish&Chips",
+        "Postcode": "IG3 9NR",
+        "CountryCode": "GBR",
+        "SubCountryCode": "AD",
+        "EffectiveDate": "2022-09-27"
+      },
+      {
+        "AddressType": "TRADING",
+        "FirstLine": "13",
+        "SecondLine": "Wavecourt",
+        "ThirdLine": "Maxwell Road",
+        "FourthLine": "Near F&S",
+        "Postcode": "RM7 9NR",
+        "CountryCode": "GBR",
+        "SubCountryCode": "AD",
+        "EffectiveDate": "2022-09-27"
+      },
+      {
+        "AddressType": "REGISTERED",
+        "FirstLine": "8",
+        "SecondLine": "Greenlane",
+        "ThirdLine": "Grren Road",
+        "FourthLine": "Near F&S",
+        "Postcode": "RM8 9NR",
+        "CountryCode": "GBR",
+        "SubCountryCode": "AD",
+        "EffectiveDate": "2022-09-27"
+      }
+    ],
+    "Address": [
+      {
+        "AddressType": "MAILING",
+        "FirstLine": "5",
+        "SecondLine": "Ravenings Parade",
+        "ThirdLine": "Goodmayes Road",
+        "FourthLine": "Near Fish&Chips",
+        "Postcode": "IG3 9NR",
+        "CountryCode": "GBR",
+        "SubCountryCode": "AD",
+        "EffectiveDate": "2022-09-27"
+      },
+      {
+        "AddressType": "TRADING",
+        "FirstLine": "15",
+        "SecondLine": "Wavecourt",
+        "ThirdLine": "Maxwell Road",
+        "FourthLine": "Near F&S",
+        "Postcode": "RM7 9NR",
+        "CountryCode": "GBR",
+        "SubCountryCode": "AD",
+        "EffectiveDate": "2022-09-27"
+      },
+      {
+        "AddressType": "REGISTERED",
+        "FirstLine": "9",
+        "SecondLine": "Greenlane",
+        "ThirdLine": "Grren Road",
+        "FourthLine": "Near F&S",
+        "Postcode": "RM8 9NR",
+        "CountryCode": "GBR",
+        "SubCountryCode": "AD",
+        "EffectiveDate": "2022-09-27"
+      }
+    ],
+    "AdditionalInfo": {
+      "ClientAddressValidationSuccessful": true
+    }
+  }
+}

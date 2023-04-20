@@ -1,0 +1,14 @@
+[
+  {
+    "eventMessage": "ABC|1234567444||COBA|MAILING|DTP|Validate_Add|4|Ravenings Parade|Goodmayes Road|Near Fish&Chips|GBR|IG3 9NR|null|5|Wavecourt|Maxwell Road|Near F&S|GBR|RM7 9NR||||"
+  },
+  {
+    "eventMessage": "BBB|1234567444||COBA|MAILING|DTP|Validate_Add|4|Ravenings Parade|Goodmayes Road|Near Fish&Chips|GBR|IG3 9NR|null|5|Wavecourt|Maxwell Road|Near F&S|GBR|RM7 9NR||||"
+  },
+  {
+    "eventMessage": "CCC|1234567444||COBA|MAILING|DTP|Validate_Add|4|Ravenings Parade|Goodmayes Road|Near Fish&Chips|GBR|IG3 9NR|null|5|Wavecourt|Maxwell Road|Near F&S|GBR|RM7 9NR||||"
+  },
+  {
+    "eventMessage": "DDD|1234567444||COBA|MAILING|DTP|Validate_Add|4|Ravenings Parade|Goodmayes Road|Near Fish&Chips|GBR|IG3 9NR|null|5|Wavecourt|Maxwell Road|Near F&S|GBR|RM7 9NR||||"
+  }
+]

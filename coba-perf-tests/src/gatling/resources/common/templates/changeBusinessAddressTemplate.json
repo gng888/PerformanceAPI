@@ -1,0 +1,117 @@
+{
+  "Data": {
+    "Address": [
+      {
+        "AddressType": "MAILING",
+        "FirstLine": "#{firstLineMailing}",
+        "SecondLine": "#{secondLineMailing}",
+        "ThirdLine": "Perranporth",
+        "FourthLine": "Cornwall",
+        "Postcode": "TR6 0EY",
+        "CountryCode": "GBR",
+        "SubCountryCode": "",
+        "EffectiveDate": "2022-09-27"
+      },
+      {
+        "AddressType": "TRADING",
+        "FirstLine": "Wheal Leisure",
+        "SecondLine": "",
+        "ThirdLine": "Perranporth",
+        "FourthLine": "Cornwall",
+        "Postcode": "TR6 0EY",
+        "CountryCode": "GBR",
+        "SubCountryCode": "",
+        "EffectiveDate": "2022-09-27"
+      },
+      {
+        "AddressType": "REGISTERED",
+        "FirstLine": "Wheal Leisure",
+        "SecondLine": "",
+        "ThirdLine": "Perranporth",
+        "FourthLine": "Cornwall",
+        "Postcode": "TR6 0EY",
+        "CountryCode": "GBR",
+        "SubCountryCode": "",
+        "EffectiveDate": "2022-09-27"
+      },
+      {
+        "AddressType": "RESIDENTIAL",
+        "FirstLine": "Poldark mansion",
+        "SecondLine": "",
+        "ThirdLine": "Nampara",
+        "FourthLine": "Cornwall",
+        "Postcode": "TR6 0AA",
+        "CountryCode": "GBR",
+        "SubCountryCode": "",
+        "EffectiveDate": "2022-09-27"
+      },
+      {
+        "AddressType": "STATEMENT",
+        "FirstLine": "Poldark mansion",
+        "SecondLine": "",
+        "ThirdLine": "Nampara",
+        "FourthLine": "Cornwall",
+        "Postcode": "TR6 0AA",
+        "CountryCode": "GBR",
+        "SubCountryCode": "",
+        "EffectiveDate": "2022-09-27",
+        "MailingName" : "John",
+        "Account": [
+          {"AccountType": "LOAN_ACCOUNT", "AccountNumber": "1234567890"},
+          {"AccountType": "BUSINESS_ACCOUNT", "AccountNumber": "98765432101234", "SortCode": "123456"}]
+      }
+    ],
+    "PreviousAddress": [
+      {
+        "AddressType": "MAILING",
+        "FirstLine": "Wheal Leisure",
+        "SecondLine": "",
+        "ThirdLine": "Perranporth",
+        "FourthLine": "Cornwall",
+        "Postcode": "TR6 0EY",
+        "CountryCode": "GBR",
+        "SubCountryCode": "",
+        "EffectiveDate": "2022-09-27"
+      },
+      {
+        "AddressType": "TRADING",
+        "FirstLine": "Wheal Leisure1",
+        "SecondLine": "",
+        "ThirdLine": "Perranporth",
+        "FourthLine": "Cornwall",
+        "Postcode": "TR6 0EY",
+        "CountryCode": "GBR",
+        "EffectiveDate": "2022-09-27"
+      },
+      {
+        "AddressType": "REGISTERED",
+        "FirstLine": "Wheal Leisure1",
+        "SecondLine": "",
+        "ThirdLine": "Perranporth",
+        "FourthLine": "Cornwall",
+        "Postcode": "TR6 0EY",
+        "CountryCode": "GBR",
+        "EffectiveDate": "2022-09-27"
+      },
+      {
+        "AddressType": "RESIDENTIAL",
+        "FirstLine": "Poldark mansion1",
+        "SecondLine": "",
+        "ThirdLine": "Nampara",
+        "FourthLine": "Cornwall",
+        "Postcode": "TR6 0AA",
+        "CountryCode": "GBR",
+        "EffectiveDate": "2022-09-27"
+      }
+    ],
+    "AdditionalInfo": {
+      "EmailId": "ross.poldark@whealLeisure.com",
+      "AssetFinanceID": "OBd223464",
+      "InvoiceFinanceID": 25235325,
+      "AuthType": "CARD_READER",
+      "AuthStatus": "SUCCESS",
+      "BusinessSegmentCode": "BB",
+      "BusinessSegmentName": "Business Banking"
+    }
+  }
+}
